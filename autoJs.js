@@ -1,7 +1,7 @@
-const Line1arr = [[320, 770], [560, 630], [815, 470]]
-const Line2arr = [[307, 970], [560, 840], [820, 720]]
-const Line3arr = [[320, 1200], [560, 1100], [820, 920]]
-const Train = [[670, 1640], [840, 1590], [950, 1500]]
+const Line1arr = [[300, 838], [566, 733], [814, 650]]
+const Line2arr = [[307, 1081], [560, 990], [820, 860]]
+const Line3arr = [[320, 1790], [560, 1245], [820, 1127]]
+const Train = [[640, 1640], [795, 1720], [920, 1660]]
 const AllBuildings = Line1arr.concat(Line2arr).concat(Line3arr)
 const jgmPkgName = 'com.tencent.jgm'
 const swipeDelay = 400
