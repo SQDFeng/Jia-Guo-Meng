@@ -1,5 +1,5 @@
-const Line1arr = [[280, 853], [540, 690], [830, 560]]
-const Line2arr = [[290, 1081], [540, 954], [800, 850]]
+const Line1arr = [[280, 823], [540, 580], [830, 440]]
+const Line2arr = [[290, 1031], [540, 904], [800, 780]]
 const Line3arr = [[300, 1360], [544, 1206], [800, 1100]]
 const Train = [[655, 1810], [840, 1700], [942, 1655]]
 const AllBuildings = Line1arr.concat(Line2arr).concat(Line3arr)
